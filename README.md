@@ -1,4 +1,4 @@
-## # 👩🏻‍💻 Pedro Emmanuel
+## # Pedro Emmanuel
 
 **`Desenvolvedor FullStack`**
 
