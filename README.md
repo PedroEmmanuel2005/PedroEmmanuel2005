@@ -23,9 +23,7 @@
 <div style="display: inline_block"><br/>
   <img align ="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white "/>
 
-  
-
-    <div style="display: inline_block"><br/>
+<div style="display: inline_block"><br/>
   <img align ="center" alt="html5" src=
 
   <div style="display: inline_block"><br/>
