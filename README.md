@@ -33,9 +33,13 @@
   <img align ="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
 <div style="display: inline_block"><br/>
-  <img align ="center" alt="python" src=
+  <img align ="center" alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=sharp&logoColor=white"/>
 
-  <div style="display: inline_block"><br/>
-    <img align ="center" alt="python" src=
+<div style="display: inline_block"><br/>
+  <img align ="center" alt="python" src=""/>
+
+<div style="display: inline_block"><br/>
+  <img align ="center" alt="python" src=""/>
+
     
 </div>
