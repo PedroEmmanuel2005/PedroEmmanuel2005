@@ -24,10 +24,9 @@
   <img align ="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "/>
 
     <div style="display: inline_block"><br/>
-  <img align ="center" alt="Node.js" src=
+  <img align ="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white "/>
 
-  <div style="display: inline_block"><br/>
-  <img align ="center" alt="html5" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  
 
     <div style="display: inline_block"><br/>
   <img align ="center" alt="html5" src=
