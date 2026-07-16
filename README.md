@@ -19,11 +19,8 @@
   
 <div style="display: inline_block"><br/>
   <img align ="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white ">
-    
+  
 <div style="display: inline_block"><br/>
-  <img align ="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "/>
-
-    <div style="display: inline_block"><br/>
   <img align ="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white "/>
 
   
